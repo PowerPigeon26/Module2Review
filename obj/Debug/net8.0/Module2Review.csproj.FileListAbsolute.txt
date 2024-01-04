@@ -1,0 +1,14 @@
+E:\Repos\Module2Review\bin\Debug\net8.0\Module2Review.exe
+E:\Repos\Module2Review\bin\Debug\net8.0\Module2Review.deps.json
+E:\Repos\Module2Review\bin\Debug\net8.0\Module2Review.runtimeconfig.json
+E:\Repos\Module2Review\bin\Debug\net8.0\Module2Review.dll
+E:\Repos\Module2Review\bin\Debug\net8.0\Module2Review.pdb
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.AssemblyInfoInputs.cache
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.AssemblyInfo.cs
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.csproj.CoreCompileInputs.cache
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.dll
+E:\Repos\Module2Review\obj\Debug\net8.0\refint\Module2Review.dll
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.pdb
+E:\Repos\Module2Review\obj\Debug\net8.0\Module2Review.genruntimeconfig.cache
+E:\Repos\Module2Review\obj\Debug\net8.0\ref\Module2Review.dll
